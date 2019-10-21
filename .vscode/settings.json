@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/cristi/.local/share/virtualenvs/Django_REST_React-mox8F6kA/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false
+}
