@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #self
     'leads',
     'rest_framework',
+    'frontend'
 
 ]
 
